@@ -1,0 +1,38 @@
+{
+  "Paris": {
+    "temperature_C": "8",
+    "description": "Clear"
+  },
+  "Tokyo": {
+    "temperature_C": "18",
+    "description": "Partly cloudy"
+  },
+  "New York": {
+    "temperature_C": "13",
+    "description": "Clear"
+  },
+  "Bangalore": {
+    "temperature_C": "21",
+    "description": "Partly cloudy"
+  },
+  "Berlin": {
+    "temperature_C": "10",
+    "description": "Clear"
+  },
+  "Singapore": {
+    "temperature_C": "29",
+    "description": "Partly cloudy"
+  },
+  "Rome": {
+    "temperature_C": "17",
+    "description": "Partly cloudy"
+  },
+  "Sydney": {
+    "temperature_C": "23",
+    "description": "Partly cloudy"
+  },
+  "Los Angeles": {
+    "temperature_C": "15",
+    "description": "Overcast"
+  }
+}

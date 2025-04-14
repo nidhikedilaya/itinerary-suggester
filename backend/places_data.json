@@ -1,0 +1,110 @@
+{
+  "Paris": [
+    "Coll\u00e8ge des Bernardins",
+    "Mus\u00e9e de la Lib\u00e9ration de Paris",
+    "Crypte Arch\u00e9ologique du Parvis Notre-Dame",
+    "Cath\u00e9drale Notre-Dame de Paris",
+    "Association Paris Historique",
+    "Palais du Louvre",
+    "Tour Eiffel",
+    "Tour Saint-Jacques",
+    "Arc de Triomphe",
+    "H\u00f4tel des Invalides"
+  ],
+  "Tokyo": [
+    "\u65e5\u5149\u9053\u4e2d",
+    "\u8fce\u8cd3\u9928",
+    "\u6771\u4eac\u30bf\u30ef\u30fc",
+    "\u4e0a\u91ce\u6771\u7167\u5bae",
+    "\u96f7\u9580",
+    "\u7687\u5c45",
+    "\u7532\u5dde\u9053\u4e2d",
+    "\u660e\u6cbb\u751f\u547d\u9928",
+    "\u5fa1\u6240",
+    "\u4e2d\u5c71\u9053"
+  ],
+  "New York": [
+    "The High Line",
+    "Little Island",
+    "Ellis Island Immigration Museum",
+    "Capitale",
+    "Stonewall Inn State Historic Site",
+    "Giovanni Da Verrazzano",
+    "Manhattan Bridge",
+    "Foley Square",
+    "Castle Williams",
+    "Alexander Hamilton U.S. Custom House"
+  ],
+  "Bangalore": [
+    "Tippu's Summer Palace",
+    "Bangalore Fort",
+    "Bangalore Palace",
+    "Mayo Hall",
+    "Queen Victoria",
+    "Statue of Edward VII",
+    "Sir Mirza Ismail Tomb",
+    "National Military Memorial",
+    "Aurobindo Bhavan",
+    "Balabrooie"
+  ],
+  "Berlin": [
+    "Siegess\u00e4ule",
+    "Berliner Toilette",
+    "St. Hedwigs-Kathedrale Berlin",
+    "Denkmal f\u00fcr die ermordeten Juden Europas",
+    "Kinderheim AHAWAH",
+    "Topographie des Terrors",
+    "K\u00f6nigin-Luise-Ged\u00e4chtniskirche",
+    "Invaliden-Friedhof",
+    "Ephraim-Palais",
+    "Schloss Bellevue"
+  ],
+  "Singapore": [
+    "Sun Yat Sen Nanyang Museum",
+    "Syonan Jinja",
+    "Steps of Syonan Jinja",
+    "Ci Ern Ge",
+    "Ong Sam Leong & Yeo Hean Neo",
+    "Former Hock Eng Seng Cemetery",
+    "Battle for Bukit Timah",
+    "Outdor Classroom",
+    "MC",
+    "Bukit Timah Summit"
+  ],
+  "Rome": [
+    "Colosseo",
+    "Villa Medici",
+    "Catacombe di San Callisto",
+    "Chiesa di Sant'Andrea al Quirinale",
+    "Basilica di San Pietro",
+    "Stadio di Domiziano",
+    "Terme di Caracalla",
+    "Mausoleo di Augusto",
+    "Sepolcro di Priscilla",
+    "Mausoleo delle Fosse Ardeatine"
+  ],
+  "Sydney": [
+    "Cockatoo Island",
+    "Elizabeth Bay House",
+    "ANZAC Memorial",
+    "Fort Denison",
+    "White Bay Power Station",
+    "Sub Base Platypus",
+    "Sydney Observatory",
+    "Darling Harbour Carousel",
+    "Newtown Tram Depot",
+    "Sydney Harbour Bridge"
+  ],
+  "Los Angeles": [
+    "Second Church of Christ, Scientist",
+    "Los Angeles Public Library",
+    "Mariachi Plaza",
+    "Millennium Biltmore Hotel",
+    "Los Angeles Theatre",
+    "Breed Street Shul",
+    "Cole's P.E. Buffet",
+    "El Pueblo de Los Angeles Historical Monument",
+    "USPO Terminal Annex",
+    "Angels Flight"
+  ]
+}

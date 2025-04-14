@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: itinerary-suggester
+    env: python
+    buildCommand: |
+      cd frontend
+      npm install
+      npm run build
+      cd ..
+      mv frontend/build backend/build
+    startCommand: gunicorn app:app
+    workingDir: backend
+    envVars:
+      - key: FLASK_ENV
+        value: production

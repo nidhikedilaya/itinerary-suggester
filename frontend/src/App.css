@@ -1,0 +1,70 @@
+/* App.css */
+
+body,
+html,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e"); /* Replace with your preferred image URL */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+/* Translucent container */
+.data-container {
+  background: rgba(255, 255, 255, 0.3); /* Translucent white */
+  border-radius: 20px;
+  padding: 30px;
+  max-width: 800px;
+  width: 90%;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  color: #222;
+}
+
+/* Styling headings */
+h1,
+h2,
+h3 {
+  color: #333;
+}
+
+/* Dropdown */
+select {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  margin: 10px 0;
+}
+
+/* Lists */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 6px 0;
+  color: #444;
+}

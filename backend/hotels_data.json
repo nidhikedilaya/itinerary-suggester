@@ -1,0 +1,110 @@
+{
+  "Paris": [
+    "Hilton Paris Opera",
+    "Relais Saint-Sulpice",
+    "FIAP Jean Monnet",
+    "H\u00f4tel de Pourtal\u00e8s",
+    "H\u00f4tel Rochechouart",
+    "H\u00f4tel Arvor",
+    "H\u00f4tel Elys\u00e9es C\u00e9ramic",
+    "Le Marceau Bastille",
+    "Timhotel",
+    "H\u00f4tel Concorde Montparnasse"
+  ],
+  "Tokyo": [
+    "MIMARU\u6771\u4eac \u516b\u4e01\u5800",
+    "Remm Roppongi",
+    "\u30db\u30c6\u30eb\u30de\u30a4\u30b9\u30c6\u30a4\u30ba\u30d7\u30ec\u30df\u30a2\u30e0\u8d64\u5742",
+    "\u6771\u4eac\u30b0\u30ea\u30fc\u30f3\u30d1\u30ec\u30b9",
+    "Shiba Park Hotel",
+    "\u30b6\u30fb\u30da\u30cb\u30f3\u30b7\u30e5\u30e9\u6771\u4eac",
+    "\u30db\u30c6\u30eb \u30a2\u30b8\u30a2\u4f1a\u9928",
+    "\u6771\u4eac\u30c9\u30fc\u30e0\u30db\u30c6\u30eb",
+    "\u30db\u30c6\u30eb\u30e2\u30f3\u30c8\u30ec\u9280\u5ea7",
+    "MIMARU\u6771\u4eac STATION EAST"
+  ],
+  "New York": [
+    "The Westin Jersey City Newport",
+    "Eventi",
+    "Union Hotel",
+    "The Bowery Hotel",
+    "The Nomad",
+    "Wyndham Garden Chinatown",
+    "W Hotels",
+    "The Dominick",
+    "The Ludlow Hotel",
+    "Hyatt Regency Jersey City on the Hudson"
+  ],
+  "Bangalore": [
+    "Taj West End",
+    "Conrad Bengaluru",
+    "Hotel Empark",
+    "The Lalit Ashok",
+    "Kani\u1e63ka Gry\u0101\u1e47\u1e0d",
+    "Oberoi Hotel",
+    "Taj MG Road",
+    "ITC Windsor",
+    "Radisson Blu Hotel, Atria",
+    "Hotel Trinity Isle"
+  ],
+  "Berlin": [
+    "Hotel Riu Plaza Berlin",
+    "IntercityHotel Berlin Hauptbahnhof",
+    "Capri by Fraser Hotel",
+    "Hotel de Rome",
+    "Miniloft Mitte Apartment Hotel",
+    "Adlon Kempinski",
+    "Soho House Berlin",
+    "DoubleTree by Hilton Berlin Ku'damm",
+    "Dormero Berlin Ku'damm",
+    "ibis Styles Berlin City Ost"
+  ],
+  "Singapore": [
+    "Shangri-La Hotel Singapore",
+    "Aqueen Hotel (Balestier)",
+    "Mercure Singapore On Stevens",
+    "Novotel Singapore On Stevens",
+    "ibis Singapore Novena",
+    "Fragrance Hotel (Oasis)",
+    "Oasia Hotel",
+    "Aloft",
+    "Fragrance Hotel (Classic)",
+    "Aloft"
+  ],
+  "Rome": [
+    "Mecenate Palace Hotel",
+    "Domus Helena",
+    "Best Western Globus Hotel",
+    "Grand hotel Gianicolo",
+    "Hotel Valle",
+    "Hotel Filippo Roma",
+    "Boncompagni Suite",
+    "San Pietro b&b",
+    "A.Roma Lifestyle Hotel",
+    "Camplus San Pietro"
+  ],
+  "Sydney": [
+    "Pier One Sydney",
+    "Hilton Sydney",
+    "Harbour Rocks Hotel",
+    "Sydney Harbour Hotel",
+    "West Hotel Sydney, Curio Collection by Hilton",
+    "Sydney Potts Point Central Apartment Hotel",
+    "Milson Serviced Apartments - Lobby",
+    "Harry's",
+    "Vibe Hotel",
+    "Grace Hotel"
+  ],
+  "Los Angeles": [
+    "Stay on Main",
+    "Hotel Per La, Autograph Collection",
+    "Millennium Biltmore Hotel",
+    "Hometel Suites",
+    "Comfort Inn Los Angeles Near Hollywood",
+    "Holiday Inn Express",
+    "The Mayfair Hotel",
+    "Best Western Plus La Mid-Town Hotel",
+    "Omni Los Angeles Hotel",
+    "DoubleTree by Hilton Hotel Los Angeles Downtown"
+  ]
+}
